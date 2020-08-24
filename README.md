@@ -1,11 +1,11 @@
-﻿# Welcome to Tasveer.live
+﻿# Welcome to Open Source Image Community
 
 A MERN based open source image community. Or you can say a social network. We
 don't know what will be the final product yet. But I have very interesting ideas
 and functionality in mind which can be implemented. Plus I am open to
 suggestions.
 
-Tasveer.live will be made with MERN (Mongodb, Express, React and Nodejs).
+This community will be made with MERN (Mongodb, Express, React and Nodejs).
 
 Calling out all the React and Nodejs developers to contribute in the project.
 Here's the functionality that I have in mind.
